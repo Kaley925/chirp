@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(201, 217, 245);
+}
+.titles{
+    color: cornflowerblue;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.tweets{
+    background-color: rgb(150, 245, 252);
+    position: relative;
+
+}
+.infoContainer{
+    padding-top: 20px;
+    width: 40%;
+    
+}
+.name{
+    width: 70%;
+    padding-left:30px;
+
+}
+.boxes{
+    width:70%;
+    padding-left:30px;
+}
+.btn{
+    padding-left:10px;
+}
+.feed{
+    
+    padding-left:32em;
+    
+}
